@@ -6,9 +6,9 @@ function About(props) {
     return (
         <div className="about__container">
             <span>
-                "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows."
+                "태초에 하나님이 천지를 창조하시니라."
             </span>
-            <span>-George Orwell, 1984</span>
+            <span>-창세기 1장 1절</span>
         </div>
     );
 }
